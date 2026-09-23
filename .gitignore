@@ -1,5 +1,9 @@
-assets/minecraft/font/mplus12.json
-assets/minecraft/font/ttf/cubic11wide.ttf
-assets/minecraft/font/ttf/mplus12.ttf
-assets/minecraft/font/ttf/mplush12.ttf
+assets/minecraft/font/*
+!assets/minecraft/font/default.json
+!assets/minecraft/font/cubic11.json
+!assets/minecraft/font/ttf/
+assets/minecraft/font/ttf/*
+!assets/minecraft/font/ttf/cubic11.ttf
+!assets/minecraft/font/ttf/OFL.txt
+
 **/*.paint
