@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "minecraft:include/space"
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:include/default",
+            "filter": {
+                "uniform": false
+            }
+        },
+        {
+            "type": "reference",
+            "id": "minecraft:cubic11"
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/supp.png",
+            "ascent": 7,
+            "chars": [
+                "䲁\u0000哒哝\u0000嗞恸撠",
+                "炖藓螨铿锵颻鮁鱿",
+                "鲀鲅鲑鲷鳕鳚𥹉\u0000"
+            ]
+        }
+    ]
+}
